@@ -12,3 +12,7 @@ Courses
 Free Programming Books
 ---
   - [List of Free Programming Books] (https://github.com/vhf/free-programming-books)
+
+ Misc
+---
+  - [List of Common Life Pro Tips] (http://www.reddit.com/r/LifeProTips/wiki/commonlpts)
