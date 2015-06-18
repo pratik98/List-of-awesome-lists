@@ -12,4 +12,3 @@ Courses
 Free Programming Books
 ---
   - [List of Free Programming Books] (https://github.com/vhf/free-programming-books)
-  - 
