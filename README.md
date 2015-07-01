@@ -26,3 +26,4 @@ Travel
 Misc
 ---
   - [List of Common Life Pro Tips] (http://www.reddit.com/r/LifeProTips/wiki/commonlpts)
+  - [A list of D3 libraries, plugins and utilities] (https://github.com/wbkd/awesome-d3)
