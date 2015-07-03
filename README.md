@@ -23,6 +23,12 @@ TV Shows
 Travel
 ---
 
+Astronomy-Science
+---
+  - [What is the most awesome paradox?] (http://www.quora.com/What-is-the-most-awesome-paradox/answer/Ajim-Bagwan)
+  - [Earth we are one.] (http://www.ewao.com/)
+
+
 Misc
 ---
   - [List of Common Life Pro Tips] (http://www.reddit.com/r/LifeProTips/wiki/commonlpts)
