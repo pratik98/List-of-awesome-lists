@@ -23,6 +23,12 @@ TV Shows
 Travel
 ---
 
+Music
+---
+ - [English](https://github.com/pratik98/List-of-awesome-lists/blob/master/English-Music)
+ - [Hindi](https://github.com/pratik98/List-of-awesome-lists/blob/master/Hindi-Music)
+
+
 Astronomy-Science
 ---
   - [What is the most awesome paradox?] (http://www.quora.com/What-is-the-most-awesome-paradox/answer/Ajim-Bagwan)
