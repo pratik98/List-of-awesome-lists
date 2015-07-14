@@ -13,6 +13,7 @@ Books
 ---
   - [List of Free Programming Books] (https://github.com/vhf/free-programming-books)
   - [List of BBC Top 100 Books] (http://www.bbc.co.uk/arts/bigread/top100.shtml)
+  - [List of r/india 's Top Reads] (https://www.reddit.com/r/india/comments/3cvtxn/rindia_lets_compile_a_list_of_rindias_top_reads/)
 
 Movies
 ---
