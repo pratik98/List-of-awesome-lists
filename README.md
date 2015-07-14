@@ -8,6 +8,7 @@ List of Awesome Lists
 Online Courses
 ---
   - [List of Awesome Computer Science Courses] (https://github.com/prakhar1989/awesome-courses)
+  - [Complete CCNA Video Guides] (https://www.youtube.com/channel/UCQZc6wrc__wo9oYOqvi9N_Q)
 
 Books
 ---
