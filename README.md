@@ -5,7 +5,6 @@ List of Awesome Lists
 > List of all lists about awesome things available on internet.
 
 Programming
-
 ---
   - [List of Awesome Awesomeness- The place to find tools and libraries] (https://github.com/bayandin/awesome-awesomeness)
   - [List of Awesome Computer Science Courses] (https://github.com/prakhar1989/awesome-courses)
