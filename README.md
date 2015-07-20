@@ -4,9 +4,10 @@ List of Awesome Lists
 
 > List of all lists about awesome things available on internet.
 
+Programming
 
-Online Courses
 ---
+  - [List of Awesome Awesomeness- The place to find tools and libraries] (https://github.com/bayandin/awesome-awesomeness)
   - [List of Awesome Computer Science Courses] (https://github.com/prakhar1989/awesome-courses)
   - [Complete CCNA Video Guides] (https://www.youtube.com/channel/UCQZc6wrc__wo9oYOqvi9N_Q)
 
@@ -15,6 +16,10 @@ Books
   - [List of Free Programming Books] (https://github.com/vhf/free-programming-books)
   - [List of BBC Top 100 Books] (http://www.bbc.co.uk/arts/bigread/top100.shtml)
   - [List of r/india 's Top Reads] (https://www.reddit.com/r/india/comments/3cvtxn/rindia_lets_compile_a_list_of_rindias_top_reads/)
+
+Career | Enterpreneurship | Work 
+---
+  -[The 1% Career Advice That’s Actually Useful] (https://medium.com/@dotbits/the-1-career-advice-that-s-actually-useful-dc12dade830b)
 
 Movies
 ---
