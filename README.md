@@ -18,7 +18,7 @@ Books
 
 Career | Enterpreneurship | Work 
 ---
-  -[The 1% Career Advice That’s Actually Useful] (https://medium.com/@dotbits/the-1-career-advice-that-s-actually-useful-dc12dade830b)
+  -[The 1% Career Advice That’s Actually Useful](https://medium.com/@dotbits/the-1-career-advice-that-s-actually-useful-dc12dade830b)
 
 Movies
 ---
