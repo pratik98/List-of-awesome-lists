@@ -7,6 +7,8 @@ List of Awesome Lists
 Programming
 ---
   - [List of Awesome Awesomeness- The place to find tools and libraries] (https://github.com/bayandin/awesome-awesomeness)
+  - [Free Saas/Paas/Iaas offerings for Devs] (https://github.com/ripienaar/free-for-dev)
+  - [Discounted/free Service for Student Devs] (https://github.com/najela/discount-for-student-dev#dbaas)
   - [List of Awesome Computer Science Courses] (https://github.com/prakhar1989/awesome-courses)
   - [Complete CCNA Video Guides] (https://www.youtube.com/channel/UCQZc6wrc__wo9oYOqvi9N_Q)
 
@@ -18,7 +20,7 @@ Books
 
 Career | Enterpreneurship | Work 
 ---
-  -[The 1% Career Advice That’s Actually Useful](https://medium.com/@dotbits/the-1-career-advice-that-s-actually-useful-dc12dade830b)
+  - [The 1% Career Advice That’s Actually Useful](https://medium.com/@dotbits/the-1-career-advice-that-s-actually-useful-dc12dade830b)
 
 Movies
 ---
