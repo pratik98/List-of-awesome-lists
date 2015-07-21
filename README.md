@@ -11,6 +11,9 @@ Programming
   - [Discounted/free Service for Student Devs] (https://github.com/najela/discount-for-student-dev#dbaas)
   - [List of Awesome Computer Science Courses] (https://github.com/prakhar1989/awesome-courses)
   - [Complete CCNA Video Guides] (https://www.youtube.com/channel/UCQZc6wrc__wo9oYOqvi9N_Q)
+  - [List of Discouraged Resources for Learning Programming] (https://www.reddit.com/r/learnprogramming/wiki/index#wiki_discouraged_resources)
+  - [A list of D3 libraries, plugins and utilities] (https://github.com/wbkd/awesome-d3)
+  - [Crowdsourced resources for Learning Android Development](http://guides.codepath.com/android)
 
 Books
 ---
@@ -54,6 +57,5 @@ Fitness | Health
 Misc
 ---
   - [List of Common Life Pro Tips] (http://www.reddit.com/r/LifeProTips/wiki/commonlpts)
-  - [A list of D3 libraries, plugins and utilities] (https://github.com/wbkd/awesome-d3)
-  - [Crowdsourced resources for Learning Android Development](http://guides.codepath.com/android)
-  - [List of Discouraged Resources for Learning Programming] (https://www.reddit.com/r/learnprogramming/wiki/index#wiki_discouraged_resources)
+  
+  
