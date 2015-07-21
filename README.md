@@ -17,6 +17,7 @@ Books
   - [List of Free Programming Books] (https://github.com/vhf/free-programming-books)
   - [List of BBC Top 100 Books] (http://www.bbc.co.uk/arts/bigread/top100.shtml)
   - [List of r/india 's Top Reads] (https://www.reddit.com/r/india/comments/3cvtxn/rindia_lets_compile_a_list_of_rindias_top_reads/)
+  - [Top 100 most downloaded books on Project Gutenberg] (http://www.gutenberg.org/ebooks/search/%3Fsort_order%3Ddownloads)
 
 Career | Enterpreneurship | Work 
 ---
@@ -36,12 +37,18 @@ Music
 ---
  - [English](https://github.com/pratik98/List-of-awesome-lists/blob/master/English-Music)
  - [Hindi](https://github.com/pratik98/List-of-awesome-lists/blob/master/Hindi-Music)
+ - [best songs by Indian Rock bands - Quora Thread](https://www.quora.com/What-are-the-best-songs-by-Indian-Rock-bands)
+ - [Musical projects and collaborations you should check out - Blog Post by Deepak Mehta](https://deepakmehta.quora.com/Musical-projects-and-collaborations-you-should-check-out)
 
 
 Astronomy-Science
 ---
   - [What is the most awesome paradox?] (http://www.quora.com/What-is-the-most-awesome-paradox/answer/Ajim-Bagwan)
   - [Earth we are one.] (http://www.ewao.com/)
+
+Fitness | Health 
+---
+  - [100 no-equipment workouts](https://www.reddit.com/r/everymanshouldknow/comments/1zjnut/emsk_100_noequipment_workouts/)
 
 
 Misc
