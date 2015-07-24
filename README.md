@@ -58,5 +58,6 @@ Fitness | Health
 Misc
 ---
   - [List of Common Life Pro Tips] (http://www.reddit.com/r/LifeProTips/wiki/commonlpts)
+  - [some good advice for the socially awkward](https://www.reddit.com/r/socialskills/comments/2wmmcn/some_good_advice_for_the_socially_awkward/)
   
   
