@@ -25,6 +25,7 @@ Books
 Career | Enterpreneurship | Work 
 ---
   - [The 1% Career Advice That’s Actually Useful](https://medium.com/@dotbits/the-1-career-advice-that-s-actually-useful-dc12dade830b)
+  - [Awesome Geek Podcasts](https://github.com/cv/awesome-geek-podcasts)
 
 Movies
 ---
