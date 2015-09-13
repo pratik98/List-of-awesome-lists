@@ -15,6 +15,7 @@ Programming
   - [A list of D3 libraries, plugins and utilities] (https://github.com/wbkd/awesome-d3)
   - [Crowdsourced resources for Learning Android Development](http://guides.codepath.com/android)
   - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets ](http://www.joelonsoftware.com/articles/Unicode.html)
+  - [List of 50+ Machine Learnig APIs](http://blog.mashape.com/list-of-50-machine-learning-apis/)
 
 Books
 ---
