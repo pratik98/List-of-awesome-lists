@@ -17,6 +17,7 @@ Programming
   - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets ](http://www.joelonsoftware.com/articles/Unicode.html)
   - [List of 50+ Machine Learnig APIs](http://blog.mashape.com/list-of-50-machine-learning-apis/)
   - [List of 40 tutorials on how to create an API](http://blog.mashape.com/list-of-40-tutorials-on-how-to-create-an-api/)
+  - [Getting Started with Automation Testing](https://www.reddit.com/r/Python/comments/1drv59/getting_started_with_automated_testing/)
 
 Books
 ---
