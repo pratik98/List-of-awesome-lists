@@ -21,7 +21,8 @@ Programming
   
 Algorithms
 ---
- -[Simple Introduction to Big-O Notation](https://www.reddit.com/r/learnprogramming/comments/370908/a_simple_introduction_to_big_o_notation/)
+ - [Simple Introduction to Big-O Notation](https://www.reddit.com/r/learnprogramming/comments/370908/a_simple_introduction_to_big_o_notation/)
+ 
 Books
 ---
   - [List of Free Programming Books] (https://github.com/vhf/free-programming-books)
