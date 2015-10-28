@@ -18,7 +18,10 @@ Programming
   - [List of 50+ Machine Learnig APIs](http://blog.mashape.com/list-of-50-machine-learning-apis/)
   - [List of 40 tutorials on how to create an API](http://blog.mashape.com/list-of-40-tutorials-on-how-to-create-an-api/)
   - [Getting Started with Automation Testing](https://www.reddit.com/r/Python/comments/1drv59/getting_started_with_automated_testing/)
-
+  
+Algorithms
+---
+ -[Simple Introduction to Big-O Notation](https://www.reddit.com/r/learnprogramming/comments/370908/a_simple_introduction_to_big_o_notation/)
 Books
 ---
   - [List of Free Programming Books] (https://github.com/vhf/free-programming-books)
