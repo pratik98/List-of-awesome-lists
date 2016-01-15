@@ -19,7 +19,8 @@ Programming
   - [List of 40 tutorials on how to create an API](http://blog.mashape.com/list-of-40-tutorials-on-how-to-create-an-api/)
   - [Getting Started with Automation Testing](https://www.reddit.com/r/Python/comments/1drv59/getting_started_with_automated_testing/)
   - [Single Page Documentation for programming languages](http://learnxinyminutes.com/)
-  
+  - [Free programming resources](https://medium.com/free-stuff/2000-programming-resources-c2c835001216)
+
 Algorithms
 ---
  - [Simple Introduction to Big-O Notation](https://www.reddit.com/r/learnprogramming/comments/370908/a_simple_introduction_to_big_o_notation/)
